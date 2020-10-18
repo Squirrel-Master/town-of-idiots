@@ -19,7 +19,7 @@ Role 2: Doctor
 
 Role 3: Escort
   Role Alignment: Town
-  Role Type: Talker
+  Role Type: Escort
   Role Abilities:
     Can choose 1 living player each night to roleblock. Target's actions for the night are nullified.
   Immune to: None
@@ -61,4 +61,7 @@ Role 8: Profiler
 
 Role 9: Medium
   Role Alignment: Town
-  Role Type: 
+  Role Type: Medium
+  Role Abilities:
+    Can speak to dead players at night. Dead players are not told who the medium is. Upon death, can select a player during the day to seance, in which target can speak to the dead for that single night.
+  Immune to: None
