@@ -27,8 +27,15 @@ Role 3: Escort
 Role 4: Vigilante
   Role Alignment: Town
   Role Type: Weaponist
-  Role Abilities
+  Role Abilities:
     Can choose 1 living player each night to shoot. Target is killed unless immune or in prison.
   Immune to: None
 
-Role 5: 
+Role 5: Jailer
+  Role Alignment: Town
+  Role Type: Protector
+  Role Abilities:
+    Can choose 1 living player each day to jail. This player is designated a prisoner. Only the jailer can perform actions on the prisoner that night. The jailer may talk to the prisoner during the night. Prisoner does not know who jailer is. Jailer may choose whether or not to execute prisoner.
+  Immune to: None
+
+Role 6: 
