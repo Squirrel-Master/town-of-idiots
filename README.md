@@ -59,4 +59,6 @@ Role 8: Profiler
     Can choose to profile one alive player each night. Profiling tells the profiler whether or not a target is part of the mafia. Only works on framer and mafioso; all other targets are labeled as innocent. Framed targets are labeled mafia.
   Immune to: None
 
-Role 9: 
+Role 9: Medium
+  Role Alignment: Town
+  Role Type: 
