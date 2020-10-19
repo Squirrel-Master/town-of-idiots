@@ -14,7 +14,7 @@ Role 2: Doctor
   Role Alignment: Town
   Role Type: Blood
   Role Abilities: 
-    Can choose 1 living player each night to heal. Can only heal self once. If target is attacked, target survives.
+    Can choose 1 living player each night to heal. Can only heal self once. If target is attacked, target survives. Cannot save target from jailer.
   Immune to: None
 
 Role 3: Escort
