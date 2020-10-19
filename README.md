@@ -1,5 +1,5 @@
 # town-of-idiots
-Toby, Squirrel Master, and GonkDroid's attempt at a Town of Idiots recode
+Toby, Squirrel Master, GonkDroid, and maveth's attempt at a Town of Idiots recode
 
 Town of Idiots roles: 17
 
