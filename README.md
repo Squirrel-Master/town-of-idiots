@@ -3,12 +3,12 @@ Toby, Squirrel Master, GonkDroid, and maveth's attempt at a Town of Idiots recod
 
 Town of Idiots roles: 17
 
-Role 1: Bodyguard
-  Role Alignment: Town
-  Role Type: Protector
-  Role Abilities:
-    Can choose 1 living player each night to protect. Can only protect self once. If target is attacked, attacker is killed and bodyguard is killed. If bodyguard attempts to protect an executed prisoner, bodyguard does not die. If swordsman attacks target, no one is killed.
-  Immune to: None
+Role 1: Bodyguard  
+  Role Alignment: Town  
+  Role Type: Protector  
+  Role Abilities:  
+    Can choose 1 living player each night to protect. Can only protect self once. If target is attacked, attacker is killed and bodyguard is killed. If bodyguard attempts to protect an executed prisoner, bodyguard does not die. If swordsman attacks target, no one is killed.  
+  Immune to: None  
 
 Role 2: Doctor
   Role Alignment: Town
